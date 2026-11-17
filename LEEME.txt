@@ -1,0 +1,20 @@
+LADY AVENTURA - PROYECTO TURÍSTICO AMPLIADO
+
+Cómo abrir:
+1. Descomprimí el archivo ZIP.
+2. Abrí la carpeta en Visual Studio Code.
+3. Ejecutá index.html con Live Server o abrilo en un navegador.
+4. Mantené juntas las carpetas img, css y js.
+
+Páginas incluidas:
+- index.html: inicio
+- nosotros.html: presentación del proyecto
+- destinos.html: destinos turísticos y calculadora
+- agricultura.html: agricultura y raíces de Francia
+- gastronomia.html: platos típicos franceses
+- cultura-arte.html: cultura general y arte de Francia
+- ladybug.html: lo que Ladybug significa y la inspiración para viajar
+- galeria.html: galería de fotografías
+- contacto.html: formulario de contacto
+
+El diseño original, los colores y las tipografías se conservaron. Bootstrap y las fotografías de las secciones se cargan desde internet.
